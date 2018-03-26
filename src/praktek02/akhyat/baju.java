@@ -7,9 +7,7 @@ public class baju {
     
     void cetakInfo (){
         System.out.println("Jenis   :"+jenis);
-        System.out.println("Bahan   :"+bahan);
-        
-                
+        System.out.println("Bahan   :"+bahan);      
     }
     
 }
